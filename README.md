@@ -1,4 +1,4 @@
-# Air-pollution-monitoring-system
+# Air-Pollution-Monitoring-System
 This is an IoT development project, I developed under the internship of Bharat Intern. The system contains the sensors that sense the presence of harmful gases and compounds in the air.
 ## Arduino-code-screenshot:
 ![air1](https://github.com/Riya83/Air-pollution-bharat-intern/assets/72373750/59abd6b4-d8da-4ffe-9305-b34c4e564942)
